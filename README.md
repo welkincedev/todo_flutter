@@ -1,16 +1,70 @@
-# todo_app
+# 📝 Flutter To-Do App
 
-A new Flutter project.
+A simple and clean **To-Do List application built using Flutter** as part of a daily GitHub streak challenge.
 
-## Getting Started
+This app helps users manage daily tasks with a minimal UI and essential features.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* ➕ Add new tasks
+* ☑️ Mark tasks as completed using checkboxes
+* 🗑️ Clear all tasks with a single tap
+* 🎨 Gradient background UI
+* 🌙 Dark theme
+* ⚡ Fast and lightweight
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Flutter SDK installed
+* Android Studio / VS Code
+* Emulator or physical device
+
+### Run the app
+
+```bash
+flutter pub get
+flutter run
+```
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+ └── main.dart
+```
+
+> This project is intentionally kept simple for learning and consistency.
+
+---
+
+## 🎯 Purpose
+
+This project is part of a **daily mini-project series** to:
+
+* Build consistency
+* Improve Flutter fundamentals
+* Maintain a GitHub contribution streak
+
+---
+
+## 🔮 Future Improvements
+
+* Local storage (SharedPreferences)
+* Edit tasks
+* Task categories
+* Animations
+* Light/Dark theme toggle
+
+---
+
+## 📄 License
+
+This project is open-source and free to use for learning purposes.
