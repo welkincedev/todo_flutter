@@ -1,6 +1,6 @@
 # 📝 Flutter To-Do App
 
-A simple and clean **To-Do List application built using Flutter** as part of a daily GitHub streak challenge.
+A simple and clean **To-Do List application built using Flutter**.
 
 This app helps users manage daily tasks with a minimal UI and essential features.
 
